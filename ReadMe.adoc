@@ -1,0 +1,34 @@
+= Project: {Side_1}
+
+=== Author: azmm12.
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 06/07/2022 .
+=== Revision: version#1 .
+=== License: Public Domain .
+
+== Description of project:
+Controlling Stepper motor by using potentiometer to change the speed of the motor .
+
+== Installation Steps:
+1. Open TinkerCad Website .
+2. Connect Arduino Uno and Stepper Motor and Potentiometer .
+3. Download Stepper Motor Library .
+4. Type the code of the program .
+5. Simulate the Code.
+
+=== Folder structure
+
+....
+ Side_Mission_2                => Arduino sketch folder
+  ├── Side_2.ino       => main Arduino file
+  ├── Side_2_Pic.png      => an image of the required schematics
+  └── ReadMe.adoc         => this file
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
