@@ -19,10 +19,10 @@ Controlling Stepper motor by using potentiometer to change the speed of the moto
 === Folder structure
 
 ....
- Side_Mission_2                => Arduino sketch folder
+ Side_Mission_2        => Arduino sketch folder
   ├── Side_2.ino       => main Arduino file
-  ├── Side_2_Pic.png      => an image of the required schematics
-  └── ReadMe.adoc         => this file
+  ├── Side_2_Pic.png   => an image of the required schematics
+  └── ReadMe.adoc      => Readme file
 ....
 
 === Contributing
